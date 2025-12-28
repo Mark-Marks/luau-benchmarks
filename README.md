@@ -1,10 +1,10 @@
 <div align="center">
   <strong>benchmarks</strong>
 
-  Collection of Luau benchmarks
-</div>
+  Collection of Luau benchmarks<br>
 
-<img src="assets/json-encode-zune.png">
+  <img src="assets/json-encode-zune.png">
+</div>
 
 ## 🔨 Usage
 
